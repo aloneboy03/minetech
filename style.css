@@ -117,8 +117,8 @@ body{
 
 
 
-.mail :nth-child(2){
-    border-color: rgba(255, 0, 0, 0.5);;
+.sign-up .mail :nth-child(2){
+    border-color: rgba(255, 0, 0, 0.5);
 }
 
 .sign-up .info :nth-child(1){
