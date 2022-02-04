@@ -45,6 +45,13 @@ body{
 }
 
 .sign-up .icon-times i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+    background-color: #868e96;
+    border-radius: 50%;
     transform: translate(19rem, -13.5rem);
 }
 
